@@ -21,7 +21,7 @@ class Student {
 
 int main() {
 
-        Student* student1 = new Student();
+        Student* student1 = new Student();  //creating objects 
         student1->name = "Shubham";
         student1->rollNumber = 1;
         student1->course = "Computer Science";
